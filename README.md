@@ -1,3 +1,3 @@
 # Dicegame
 
-Dice Game made with HTML, CSS and Javascript
+HTML, CSS and Javascript Project
